@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="#Features">Features</a> • 
- <a href="#Rodando a aplicação">Rodando a aplicação</a> • 
+ <a href="#Rodando">Rodando a aplicação</a> • 
  <a href="#Tecnologias">Tecnologias</a>
 </p>
 
