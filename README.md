@@ -3,6 +3,12 @@
 </h1>
 <p align="center">Calculadora desenvolvida em ReactJS para realizar seu cálculos! 📐</p>
 
+<p align="center">
+ <a href="#Features">Contribuição</a> • 
+ <a href="#Rodando a aplicação">Rodando a aplicação</a> • 
+ <a href="#Tecnologias">Tecnologias</a>
+</p>
+
 <h4 align="center"> 
 	✔️Calculadora Reactjs pronta para uso!!✔️
 </h4>
