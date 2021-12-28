@@ -20,7 +20,7 @@
 - [x] Divição
 - [x] Multiplicação
 
-![Details web](screenshots/details-web.png)
+![calculadora](example.png)
 
 ### Pré-requisitos
 
