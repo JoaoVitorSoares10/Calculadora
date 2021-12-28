@@ -20,9 +20,8 @@
 - [x] Divição
 - [x] Multiplicação
 
-<p align="center">
-	![calculadora](example.png)
-</p>
+![calculadora](example.png)
+
 ### Pré-requisitos
 
 Para poder utilizar a calculadora, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
