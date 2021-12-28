@@ -20,6 +20,13 @@
 - [x] Divição
 - [x] Multiplicação
 
+![Details web](screenshots/details-web.png)
+
+### Pré-requisitos
+
+Para poder utilizar a calculadora, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+
 ### Rodando a aplicação
 
 ```bash
