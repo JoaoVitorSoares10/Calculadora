@@ -5,6 +5,7 @@
 
 <p align="center">
  <a href="#Features">Features</a> • 
+ <a href="#Pré-requisitos">Pré-requisitos</a> • 
  <a href="#Rodando">Rodando a aplicação</a> • 
  <a href="#Tecnologias">Tecnologias</a>
 </p>
