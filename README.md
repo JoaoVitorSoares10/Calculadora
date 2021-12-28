@@ -4,7 +4,7 @@
 <p align="center">Calculadora desenvolvida em ReactJS para realizar seu cálculos! 📐</p>
 
 <p align="center">
- <a href="#Features">Contribuição</a> • 
+ <a href="#Features">Features</a> • 
  <a href="#Rodando a aplicação">Rodando a aplicação</a> • 
  <a href="#Tecnologias">Tecnologias</a>
 </p>
