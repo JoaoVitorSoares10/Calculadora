@@ -18,7 +18,7 @@
 
 - [x] Adição
 - [x] Subtração
-- [x] Divição
+- [x] Divisão
 - [x] Multiplicação
 
 ![calculadora](example.png)
