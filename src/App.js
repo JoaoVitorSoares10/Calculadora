@@ -46,6 +46,7 @@ class App extends React.Component {
 
   calculate(){
     try{
+      // eslint-disable-next-line
       let result = eval(this.state.screenValue)
       if(result === Infinity){
         this.setState(
