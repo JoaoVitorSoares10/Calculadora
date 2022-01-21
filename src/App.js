@@ -75,7 +75,7 @@ class App extends React.Component {
         <div className="container" >
         <div className="content">
         <div className="header">
-          <h1 id="title">~CALCULADORA~</h1>
+          <h1 id="title">CALCULADORA</h1>
         </div>
         <div className="panel">
           <Input value={this.state.screenValue} result=""/>
